@@ -1,6 +1,6 @@
 package sa.edu.kau.fcit.cpit252;
 
-
+import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 import sa.edu.kau.fcit.cpit252.logging.Logger;
 
